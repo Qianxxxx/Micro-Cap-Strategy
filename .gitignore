@@ -1,0 +1,6 @@
+/data/
+/outputs/
+/.venv/
+/config/*.local.json
+__pycache__/
+*.egg-info/

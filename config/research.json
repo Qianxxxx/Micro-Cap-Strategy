@@ -1,0 +1,16 @@
+{
+  "start": "2013-12-31",
+  "end": "2026-04-30",
+  "index_start": "2010-01-04",
+  "rank_years": 5,
+  "rank_min_observations": 252,
+  "one_way_fee": 0.001,
+  "gold_weights": [
+    0.1,
+    0.2,
+    0.25,
+    0.3,
+    0.4,
+    0.5
+  ]
+}

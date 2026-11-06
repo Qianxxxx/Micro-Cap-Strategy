@@ -1,0 +1,2 @@
+polars==1.44.2
+PyMySQL==1.2.3
